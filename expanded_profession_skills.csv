@@ -1,0 +1,91 @@
+Profession,Skill
+Software Developer,programming
+Software Developer,software design
+Software Developer,debugging
+Data Scientist,machine learning
+Data Scientist,data visualization
+Data Scientist,statistics
+Graphic Designer,creativity
+Graphic Designer,design
+Graphic Designer,Photoshop
+Mechanical Engineer,CAD
+Mechanical Engineer,mechanical knowledge
+Mechanical Engineer,problem solving
+Web Developer,HTML
+Web Developer,CSS
+Web Developer,JavaScript
+Project Manager,leadership
+Project Manager,communication
+Project Manager,budgeting
+Financial Analyst,accounting
+Financial Analyst,Excel
+Financial Analyst,financial modeling
+Content Writer,content creation
+Content Writer,SEO
+Content Writer,copywriting
+Sales Representative,negotiation
+Sales Representative,CRM
+Sales Representative,sales strategy
+Civil Engineer,construction planning
+Civil Engineer,structural engineering
+Civil Engineer,project management
+Marketing Specialist,marketing strategy
+Marketing Specialist,social media
+Marketing Specialist,market research
+Human Resources Specialist,recruitment
+Human Resources Specialist,employee relations
+Human Resources Specialist,benefits administration
+Nurse,patient care
+Nurse,medical terminology
+Nurse,emergency response
+Physician,diagnosis
+Physician,patient management
+Physician,specialized care
+Pharmacist,pharmacology
+Pharmacist,medication dispensing
+Pharmacist,customer service
+Teacher,curriculum development
+Teacher,classroom management
+Teacher,educational technology
+Chef,recipe development
+Chef,food safety
+Chef,kitchen management
+Lawyer,litigation
+Lawyer,legal research
+Lawyer,contract drafting
+Accountant,financial reporting
+Accountant,tax preparation
+Accountant,audit
+Architect,design principles
+Architect,3D modeling
+Architect,construction documentation
+Photographer,photography
+Photographer,photo editing
+Photographer,lighting
+Fitness Trainer,exercise programming
+Fitness Trainer,nutrition
+Fitness Trainer,client motivation
+Real Estate Agent,property listing
+Real Estate Agent,negotiation
+Real Estate Agent,market analysis
+UI/UX Designer,user research
+UI/UX Designer,prototyping
+UI/UX Designer,interaction design
+Network Engineer,network configuration
+Network Engineer,security
+Network Engineer,troubleshooting
+Biologist,experimental design
+Biologist,data analysis
+Biologist,field work
+Economist,economic theory
+Economist,data analysis
+Economist,policy analysis
+Psychologist,counseling
+Psychologist,psychological testing
+Psychologist,research
+Veterinarian,animal care
+Veterinarian,surgery
+Veterinarian,diagnosis
+Journalist,investigative reporting
+Journalist,editing
+Journalist,multimedia storytelling
